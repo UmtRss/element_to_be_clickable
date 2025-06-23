@@ -1,15 +1,5 @@
-# ✅ Selenium PyTest Project 2 – Clickable Element Test
+## Selenium PyTest Project 2 – Clickable Element Test
 
-## 📁 Project Name: `test_project_clickable`
-
-This automation test demonstrates how to wait for a button and an input field to become **clickable** using `element_to_be_clickable` with Selenium.
-
----
-
-## 🌐 Test URL:
-[https://the-internet.herokuapp.com/dynamic_controls](https://the-internet.herokuapp.com/dynamic_controls)
-
----
 
 ## 🧪 Test Scenario:
 
